@@ -1,5 +1,5 @@
-# Robot Finds Kitten
-Simon Carless once described robotfindskitten as "less a game and more a way of life ... It's fun to wander around until you find a kitten, at which point you feel happy and can start again". I don't think I could have said it better myself!
+# Greed
+With rocks fallings from the sky, can you collect as many of the gems as possible, tempting fate every second you remain?
 
 ## Getting Started
 ---
@@ -20,7 +20,6 @@ The project files and folders are organized as follows:
 ```
 root                    (project root folder)
 +-- rfk                 (source code for game)
-  +-- data              (data files for game)
   +-- game              (specific game classes)
   +-- __main__.py       (entry point for program)
 +-- README.md           (general info)
@@ -33,4 +32,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* # TODO: Add your name and email here
+* Alexander Turner(isomelzric@byui.edu)
